@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Current Art Projects
-feature-img: "img/siren.png"
 ---
 As a designer and illustrator, I'm constantly fighting a battle of balancing my work and personal creative life. While I enjoy making pieces and design elements for clients, a lot of my creativity happens at home. This isn't to say I don't bring that to work with me, in fact, it's a catalyst that propels me to bring new ideas to jobs and clients. A lot of my personal work really sifts itself into my professional work, and it helps me problem solve and enjoy the creative process in both places! <br />
+![Siren Mermaid](/img/siren.png)
 One of my current projects is this Siren image.<br />
 It's a vector-based Illustrator image that I came up with while sketching at a coffee shop - because I am a true hipster-artist-lady, and all we do is sketch at coffee shops. The idea came to me while I was trying to develop easy yet captivating material for my design portfolio. I wanted something that wasn't quite flat, but wasn't too complex. This is a WIP, as I'm not super happy with the face and shading on the body, but once that's fixed I might do the mermaid in a couple color schemes and fill her with different textures. I have an orange/teal based version of this as well, and I'm trying to figure out what the best texture to add would be!<br />
 I also have a few other things in development that I hope to include soon, such as: a unicorn texture-painting with stylized shading, a rat-goat chimera logo, and a new logo for my resume and business cards!<br />
