@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Current Art Projects
+feature-img: "img/siren.png"
 ---
 As a designer and illustrator, I'm constantly fighting a battle of balancing my work and personal creative life. While I enjoy making pieces and design elements for clients, a lot of my creativity happens at home. This isn't to say I don't bring that to work with me, in fact, it's a catalyst that propels me to bring new ideas to jobs and clients. A lot of my personal work really sifts itself into my professional work, and it helps me problem solve and enjoy the creative process in both places! <br />
-One of my current projects is this one:<br />
-[Siren Mermaid]
-(/img/siren.png)
-<br />
+One of my current projects is this Siren image.<br />
 It's a vector-based Illustrator image that I came up with while sketching at a coffee shop - because I am a true hipster-artist-lady, and all we do is sketch at coffee shops. The idea came to me while I was trying to develop easy yet captivating material for my design portfolio. I wanted something that wasn't quite flat, but wasn't too complex. This is a WIP, as I'm not super happy with the face and shading on the body, but once that's fixed I might do the mermaid in a couple color schemes and fill her with different textures. I have an orange/teal based version of this as well, and I'm trying to figure out what the best texture to add would be!<br />
 I also have a few other things in development that I hope to include soon, such as: a unicorn texture-painting with stylized shading, a rat-goat chimera logo, and a new logo for my resume and business cards!<br />
 My process often begins with animals, or other organic figures. I am very drawn to the curves in animal and human shapes, it's also a lot of fun for me to draw semi-realistic images and to find different ways to incorporate organic imagery into design. I like both aspects in the art world, geometric and organic, and I think they work best when integrated in some way! I am also a big fan of colors that make each other pop and glow, which can be distracting at times I know, but I think it gives most design work such a beautifully distinct voice. I also enjoy working with a muted palette and earth tones, with a dash or brightness in the middle of it all.<br />
